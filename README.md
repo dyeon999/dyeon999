@@ -1,4 +1,4 @@
-### My GitHub States!
+### My GitHub States
 
 <!--
 **dyeon999/dyeon999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I work for JPower : https://litt.ly/jpower
-<!--?fbclid=PAAaYndhAmxkrKD-LlUbhdCglakHVDvweV3kg9SOOO2PJrtR8XZT7IEzzJJrM_aem_Acv9rFhqDv96cMfY0z_mI_THDubQnKyRubqHyDztMuL7-wMcw3aGpwNu3I93Pv6q7jc-->
+<!--
+### I work for JPower!
+<br/>
 
+What is JPower? ↓↓↓↓
 
+https://litt.ly/jpower
+
+-->
+### 
 
 
 <!-- [![dyeon999's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyeon999)](https://github.com/dyeon999/github-readme-stats)
